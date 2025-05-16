@@ -1,0 +1,6 @@
+torch>=1.9
+transformers
+tqdm
+opencv-python
+Pillow
+einops
