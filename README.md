@@ -4,7 +4,7 @@ VividLens is a comprehensive video analysis and enhancement platform that combin
 
 ## Components
 
-### 1. Video Captioning System
+### 1. Video Analysis System
 Located in the `Captioning` directory, this component provides:
 - Real-time video analysis and captioning
 - Suspicious activity detection
@@ -39,7 +39,7 @@ Located in the `Remushter` directory, this component offers:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/VividLens.git
+git clone https://github.com/SamarthDS/VividLens.git
 cd VividLens
 ```
 
@@ -96,6 +96,3 @@ VividLens/
 
 ## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-[Add your license information here]
